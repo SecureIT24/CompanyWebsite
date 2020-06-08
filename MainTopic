@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<header>SecureIT Solutions</header>
-<Title>SecureIT Solutions, LLC</Title>
-<h1> <strong>SecureIT Solutions<strong></h1>
+<head>SecureIT Solutions</head>
+  <Title>SecureIT Solutions</Title>
+    <h1> <strong>SecureIT Solutions<strong></h1>
 <body> 
 This is my company first basic page
 I will publish this using GitHub pages
